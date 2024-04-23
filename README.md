@@ -2,6 +2,8 @@
 Tailwindcss-project
 
 - [Demo Project]![Screenshot 2024-04-24 030931](https://github.com/saaramousavi/tailwindcss/assets/159664750/31ffcfe3-ea7b-4738-a3af-64f67cf47d12)
+- 
+- ![Screenshot 2024-04-24 030931 (1)](https://github.com/saaramousavi/tailwindcss/assets/159664750/92bca767-af6e-4ee6-95bd-61dbe7294b12)
 
 
 
@@ -12,7 +14,6 @@ Tailwindcss-project
 
 - Role - Frontend
 
-- ![Screenshot 2024-04-24 030931 (1)](https://github.com/saaramousavi/tailwindcss/assets/159664750/92bca767-af6e-4ee6-95bd-61dbe7294b12)
 
 
 ![Screenshot 2024-04-24 031940](https://github.com/saaramousavi/tailwindcss/assets/159664750/0359c6d3-6286-468f-9158-df09c2452dde)
