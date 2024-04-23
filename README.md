@@ -8,7 +8,7 @@ Tailwindcss-project
 - Developed by Sara Mousavi
 
 - Created - 2024-04-24
-- Technologies Used - tailwindcss, html, css 
+- Technologies Used - tailwindcss, html, css ,js
 
 - Role - Frontend
 
