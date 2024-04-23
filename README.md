@@ -3,7 +3,6 @@ Tailwindcss-project
 
 - [Demo Project]![Screenshot 2024-04-24 030931](https://github.com/saaramousavi/tailwindcss/assets/159664750/31ffcfe3-ea7b-4738-a3af-64f67cf47d12)
 - 
-- ![Screenshot 2024-04-24 030931 (1)](https://github.com/saaramousavi/tailwindcss/assets/159664750/92bca767-af6e-4ee6-95bd-61dbe7294b12)
 
 
 
@@ -34,3 +33,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/saaramousavi)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=saaramousavi)  
+- ![Screenshot 2024-04-24 030931 (1)](https://github.com/saaramousavi/tailwindcss/assets/159664750/92bca767-af6e-4ee6-95bd-61dbe7294b12)
